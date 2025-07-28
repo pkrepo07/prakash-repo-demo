@@ -1,2 +1,3 @@
 # prakash-repo-demo
-this is my first repository
+Hello, this is my first repository.
+Author - Prakash Kumar
